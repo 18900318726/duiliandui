@@ -12,7 +12,7 @@
     简单说就是一个翻译模型，通过使用深度神经网络将一个语言序列翻译成另一种语言序列。
 
 ### 项目结构
- ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)<br>
+<img src=" ./201721123005/jiegou.png"/><br>
  couplet        文件夹用于存放一些数据（训练数据和测试数据，以及词表数据）<br>
  models         文件夹用于存放训练阶段保存的模型<br>
  couplet.py     训练模型保存到models<br>
